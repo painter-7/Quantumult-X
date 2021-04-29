@@ -66,11 +66,16 @@ IP6-CIDR,2001:b28:f23f::/48,Outside
 
 # > TikTok
 USER-AGENT,TikTok*,Outside
-HOST-SUFFIX,muscdn.com,Outside
-HOST-SUFFIX,musical.ly,Outside
-HOST-SUFFIX,tiktokv.com,Outside
-HOST-SUFFIX,tiktokcdn.com,Outside
-HOST-KEYWORD,-tiktokcdn-com,Outside
+DOMAIN-SUFFIX,byteoversea.com,Outside
+DOMAIN-SUFFIX,ibytedtos.com,Outside
+DOMAIN-SUFFIX,ipstatp.com,Outside
+DOMAIN-SUFFIX,muscdn.com,Outside
+DOMAIN-SUFFIX,musical.ly,Outside
+DOMAIN-SUFFIX,tiktok.com,Outside
+DOMAIN-SUFFIX,tik-tokapi.com,Outside
+DOMAIN-SUFFIX,tiktokcdn.com,Outside
+DOMAIN-SUFFIX,tiktokv.com,Outside
+DOMAIN-KEYWORD,-tiktokcdn-com,Outside
 
 # > Zooba
 USER-AGENT,battleroyale*,Outside
@@ -790,4 +795,46 @@ IP-CIDR,75.126.0.0/16,Outside
 IP-CIDR,174.37.0.0/16,Outside
 IP-CIDR,208.43.0.0/16,Outside
 
-# > Others
+# > Netflix
+USER-AGENT,Argo*,Outside
+HOST-SUFFIX,Outside.com,Outside
+HOST-SUFFIX,Outside.net,Outside
+HOST-SUFFIX,nflxext.com,Outside
+HOST-SUFFIX,nflximg.com,Outside
+HOST-SUFFIX,nflximg.net,Outside
+HOST-SUFFIX,nflxso.net,Outside
+HOST-SUFFIX,nflxvideo.net,Outside
+IP-CIDR,8.41.4.0/24,Outside
+IP-CIDR,23.246.0.0/18,Outside
+IP-CIDR,37.77.184.0/21,Outside
+IP-CIDR,45.57.0.0/17,Outside
+IP-CIDR,64.120.128.0/17,Outside
+IP-CIDR,66.197.128.0/17,Outside
+IP-CIDR,69.53.224.0/19,Outside
+IP-CIDR,108.175.32.0/20,Outside
+IP-CIDR,185.2.220.0/22,Outside
+IP-CIDR,185.9.188.0/22,Outside
+IP-CIDR,192.173.64.0/18,Outside
+IP-CIDR,198.38.96.0/19,Outside
+IP-CIDR,198.45.48.0/20,Outside
+IP-CIDR,207.45.72.0/22,Outside
+IP-CIDR,208.75.76.0/22,Outside
+
+# > Spotify
+USER-AGENT,*Spotify*,Outside
+HOST-SUFFIX,pscdn.co,Outside
+HOST-SUFFIX,scdn.co,Outside
+HOST-SUFFIX,spoti.fi,Outside
+HOST-SUFFIX,spotify.com,Outside
+HOST-SUFFIX,spotifycdn.net,Outside
+
+# > YouTube
+USER-AGENT,*youtube*,Outside
+USER-AGENT,YouTube*,Outside
+HOST-KEYWORD,youtube,Outside
+HOST,yt3.ggpht.com,Outside
+HOST-SUFFIX,googlevideo.com,Outside
+HOST-SUFFIX,gvt2.com,Outside
+HOST-SUFFIX,youtu.be,Outside
+HOST,youtubei.googleapis.com,Outside
+HOST-SUFFIX,ytimg.com,YouTube
