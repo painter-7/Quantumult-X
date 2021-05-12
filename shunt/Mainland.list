@@ -9,6 +9,7 @@ USER-AGENT,WeChat*,Mainland
 
 # > 小说
 host-suffix, www.shouda8.com, Mainland
+host-suffix, www.shouda88.com, Mainland
 
 # > avbobo
 host-suffix, s.abbbcgt1.com, Mainland
