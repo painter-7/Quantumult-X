@@ -9,6 +9,9 @@ USER-AGENT,WeChat*,Mainland
 
 # > in05
 host-suffix, www.530p.com, Mainland
+host-suffix, lcl.itmzhou.com, Mainland
+host-suffix, api.shimada-dl.com, Mainland
+
 
 # > 小说
 host-suffix, www.shouda8.com, Mainland
