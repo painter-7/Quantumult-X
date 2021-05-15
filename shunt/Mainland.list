@@ -7,6 +7,9 @@ USER-AGENT,ting_en,Mainland
 USER-AGENT,WebTorrent*,Mainland
 USER-AGENT,WeChat*,Mainland
 
+# > in05
+host-suffix, www.530p.com, Mainland
+
 # > 小说
 host-suffix, www.shouda8.com, Mainland
 host-suffix, www.shouda88.com, Mainland
