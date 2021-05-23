@@ -224,8 +224,6 @@ HOST-SUFFIX,youku.com,Mainland
 HOST-SUFFIX,ykimg.com,Mainland
 
 # Mainland
-HOST-SUFFIX,rtlog.snssdk.com,Mainland
-HOST-SUFFIX,log3-misc-hl.amemv.com,Mainland
 HOST-SUFFIX,10010.com,Mainland
 HOST-SUFFIX,10089.cn,Mainland
 HOST-SUFFIX,12306.cn,Mainland
