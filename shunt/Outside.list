@@ -6,6 +6,9 @@ USER-AGENT,Instagram*,Outside
 USER-AGENT,Resilio Sync*,Outside
 USER-AGENT,WhatsApp*,Outside
 
+# > qixin
+HOST-SUFFIX,qxzy.top,Outside
+
 # > Google Voice
 HOST,voice.telephony.goog,Outside
 
